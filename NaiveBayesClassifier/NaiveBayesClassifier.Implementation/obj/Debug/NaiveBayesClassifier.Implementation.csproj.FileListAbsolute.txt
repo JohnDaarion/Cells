@@ -10,3 +10,9 @@ C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBaye
 C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csproj.CoreCompileInputs.cache
 C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.dll
 C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\bin\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\bin\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csprojAssemblyReference.cache
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.pdb

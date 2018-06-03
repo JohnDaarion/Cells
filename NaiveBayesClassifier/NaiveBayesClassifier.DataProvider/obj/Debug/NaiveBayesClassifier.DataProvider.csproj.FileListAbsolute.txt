@@ -15,3 +15,12 @@ C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBaye
 C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csproj.CopyComplete
 C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.dll
 C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.pdb
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.DataProvider.dll
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.DataProvider.pdb
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csprojAssemblyReference.cache
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csproj.CopyComplete
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.dll
+C:\Users\Jan\Desktop\Cells\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.pdb

@@ -13,8 +13,8 @@ namespace Test
     {
         static void Main(string[] args)
         { 
-            string pathToData = @"C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\Cells\DATA";
-            string pathToResults = @"C:\Users\GO\Desktop\wynik.txt";
+            string pathToData = "DATA";
+            string pathToResults = "wynik.txt";
             bool runOneTime = true;
             DirectoryInfo di = new DirectoryInfo(pathToData + "\\letterB");
 
