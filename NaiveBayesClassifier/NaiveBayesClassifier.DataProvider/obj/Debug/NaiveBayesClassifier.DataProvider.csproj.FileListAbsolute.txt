@@ -1,0 +1,17 @@
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.DataProvider.dll
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.DataProvider.pdb
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csprojResolveAssemblyReference.cache
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.dll
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.pdb
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.DataProvider.dll
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.DataProvider.pdb
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\bin\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csprojAssemblyReference.cache
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.csproj.CopyComplete
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.dll
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.DataProvider\obj\Debug\NaiveBayesClassifier.DataProvider.pdb

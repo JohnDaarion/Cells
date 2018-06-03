@@ -1,0 +1,12 @@
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\bin\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\bin\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\TajmTuDaj\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\bin\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\bin\Debug\NaiveBayesClassifier.Implementation.pdb
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csprojAssemblyReference.cache
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.dll
+C:\Users\GO\Desktop\Naive-Bayes-Classifier-master\NaiveBayesClassifier\NaiveBayesClassifier.Implementation\obj\Debug\NaiveBayesClassifier.Implementation.pdb
